@@ -1,4 +1,10 @@
 link for mathematical reference
 
-
 https://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder/
+
+
+
+
+tensorflow function for MSSIM for images link
+
+https://www.tensorflow.org/api_docs/python/tf/image/ssim_multiscale
